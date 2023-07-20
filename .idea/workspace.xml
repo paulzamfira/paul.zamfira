@@ -1,44 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26fbff97-5f37-4aa7-bbc5-9e1a2e1808b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/vendor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/Read Me.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/demo-files/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/demo-files/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon/selection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1DD.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1IMG_1061-Edit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2780-Edit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chocolat/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chocolat/fullscreen-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chocolat/fullscreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chocolat/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chocolat/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chocolat/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/classie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/hc-sticky.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/modernizr.custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/snap.svg-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website02.iml" afterDir="false" />
+    <list default="true" id="26fbff97-5f37-4aa7-bbc5-9e1a2e1808b5" name="Changes" comment="1st commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +40,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689854769193</updated>
-      <workItem from="1689854770923" duration="2127000" />
+      <workItem from="1689854770923" duration="3778000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1689856986817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689856986817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
   </component>
 </project>
