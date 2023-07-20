@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Paul Z Portfolio</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/vendor.css">
+	<link rel="stylesheet" type="text/css" href="fonts/icomoon/icomoon.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<style>
+		.photo-grid {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 10px;
+			padding: 20px;
+		}
+
+		.photo-item {
+			width: 100%;
+			transition: transform 0.3s ease;
+		}
+
+		.photo-item img {
+			width: 100%;
+			height: auto;
+			object-fit: cover;
+			aspect-ratio: 3/2;
+		}
+		.photo-item:hover {
+			transform: scale(1.02); /* Adjust the scale factor for a smooth animation */
+		}
+	</style>
+</head>
+<body class="bg-black">
+
+
+<!-- Your existing code for the preloader and navigation -->
+
+<div id="billboard">
+	<div class="container">
+		<div class="row">
+			<div class="billboard-content d-flex mt-6 align-center">
+
+				<div class="light text-center">
+					<h1 class="section-title mb-4">Paul Zamfira <strong>Photography</strong></h1>
+				</div><!--text-content-->
+			</div>
+		</div>
+	</div>
+</div><!--billboard-->
+
+<section class="portfolio-wrap fancyboxeffect light padding-medium">
+	<div class="photo-grid">
+		<!-- Add 9 photo items here -->
+		<div class="photo-item">
+			<a class="image-link" rel="gallery" href="images/1DD.jpg">
+				<img src="images/1DD.jpg" alt="model" class="galleryImg">
+			</a>
+		</div>
+		<div class="photo-item">
+			<a class="image-link" rel="gallery" href="images/IMG_2780-Edit.jpg">
+				<img src="images/IMG_2780-Edit.jpg" alt="model" class="galleryImg">
+			</a>
+		</div>
+		<div class="photo-item">
+			<a class="image-link" rel="gallery" href="images/1IMG_1061-Edit.jpg">
+				<img src="images/1IMG_1061-Edit.jpg" alt="model" class="galleryImg">
+			</a>
+		</div>
+	</div>
+</section>
+
+<script src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/plugins.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+
+
+
+</body>
+</html>
