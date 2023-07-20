@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26fbff97-5f37-4aa7-bbc5-9e1a2e1808b5" name="Changes" comment="2nd commit">
-      <change afterPath="$PROJECT_DIR$/images/1S.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1Z.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2Z.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/A (12).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DDD (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DDD (3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_0580.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_1415-Edit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_3674.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_4532.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_8451.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_9310-Edit-Edit-Edit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/A (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/A (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DDD (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_1958.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_2250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_3477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_9230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_9644.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689854769193</updated>
-      <workItem from="1689854770923" duration="4577000" />
+      <workItem from="1689854770923" duration="5047000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1689856986817</created>
@@ -66,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689859042589</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2nd commit">
+      <created>1689859888477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689859888477</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
